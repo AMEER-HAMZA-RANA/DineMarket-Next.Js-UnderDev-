@@ -1,5 +1,6 @@
 ### => THIS a HACKATHON PROJECT (recently started) and IS CURRENLTY UNDER DEVELOPMENT (just 30% completed until now). It is an E-commerce Marketplace being built on NEXT.JS, TypeScript and TailwindCSS. Sanity is used as Headless CMS, serverless VercelPostgreSQL is used as a database, React-Hot-Toast library will be used for notifications, Clerk auth will be used as authentication gateway, Stripe will be integrated to process the orders' payement, Redux Toolkit will be used as state management library, ShadCN UI might be used as a component Library. 
 ### => LIVE LINK: https://dine-mart-ameer-hamza-rana.vercel.app/
+### ------------------------------------------------------------------------------------------
 
 
 
